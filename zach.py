@@ -522,15 +522,15 @@ if __name__ == "__main__":
       try:
 
               while True:
-                print('\n\x1b[1;92m                █████╗ ██╗███████╗           \x1b[0m')
-                print('\x1b[1;92m               ██╔══██╗██║╚══███╔╝          \x1b[0m')
-                print('\x1b[1;92m               ███████║██║  ███╔╝           \x1b[0m')
-                print('\x1b[1;92m               ██╔══██║██║ ███╔╝            \x1b[0m')
-                print('\x1b[1;92m               ██║  ██║██║███████╗          \x1b[0m')
-                print('\x1b[1;92m               ╚═╝  ╚═╝╚═╝╚══════╝          \x1b[0m')
+                print('\n\x1b[1;92m              █▀▄▀█ █▀▀█ ▀▀█ █▀▀          \x1b[0m')
+                print('\x1b[1;92m                █░▀░█ █▄▄█ ▄▀░ █▀▀          \x1b[0m')
+                print('\x1b[1;92m                ▀░░░▀ ▀░░▀ ▀▀▀ ▀▀▀          \x1b[0m')
+                print('\x1b[1;92m                                            \x1b[0m')
+                print('\x1b[1;92m                                            \x1b[0m')
+                print('\x1b[1;92m                                            \x1b[0m')
                 print('\n\x1b[1;92m' + '-' * 50 + '\x1b[0m')
-                print('\n\x1b[1;92mOwner     :\x1b[0m \x1b[1;97mAiz\x1b[0m ')
-                print('\x1b[1;92mFacebook  :\x1b[0m \x1b[1;97mfacebook.com/intel.aiz\x1b[0m ')
+                print('\n\x1b[1;92mOwner     :\x1b[0m \x1b[1;97mzach\x1b[0m ')
+                print('\x1b[1;92mFacebook  :\x1b[0m \x1b[1;97mhttps://www.facebook.com/zachary.pnaveax\x1b[0m ')
                 print('\x1b[1;92mTool Type :\x1b[0m \x1b[1;97mFacebook Manager\x1b[0m ')
                 print('\x1b[1;92mVersion   :\x1b[0m \x1b[1;97m1.0\x1b[0m ')
                 print('\n\x1b[1;92m' + '-' * 50 + '\x1b[0m')
