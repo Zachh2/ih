@@ -522,12 +522,12 @@ if __name__ == "__main__":
       try:
 
               while True:
-                print('\n\x1b[1;92m              █▀▄▀█ █▀▀█ ▀▀█ █▀▀          \x1b[0m')
-                print('\x1b[1;92m                █░▀░█ █▄▄█ ▄▀░ █▀▀          \x1b[0m')
-                print('\x1b[1;92m                ▀░░░▀ ▀░░▀ ▀▀▀ ▀▀▀          \x1b[0m')
-                print('\x1b[1;92m                                            \x1b[0m')
-                print('\x1b[1;92m                                            \x1b[0m')
-                print('\x1b[1;92m                                            \x1b[0m')
+                print('\n\x1b[1;92m             ███╗░░░███╗░█████╗░███████╗███████╗         \x1b[0m')
+                print('\x1b[1;92m               ████╗░████║██╔══██╗╚════██║██╔════         \x1b[0m')
+                print('\x1b[1;92m               ██╔████╔██║███████║░░███╔═╝█████╗░░          \x1b[0m')
+                print('\x1b[1;92m               ██║╚██╔╝██║██╔══██║██╔══╝░░██╔══╝░                             \x1b[0m')
+                print('\x1b[1;92m               ██║░╚═╝░██║██║░░██║███████╗███████                             \x1b[0m')
+                print('\x1b[1;92m               ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝                             \x1b[0m')
                 print('\n\x1b[1;92m' + '-' * 50 + '\x1b[0m')
                 print('\n\x1b[1;92mOwner     :\x1b[0m \x1b[1;97mzach\x1b[0m ')
                 print('\x1b[1;92mFacebook  :\x1b[0m \x1b[1;97mhttps://www.facebook.com/zachary.pnaveax\x1b[0m ')
